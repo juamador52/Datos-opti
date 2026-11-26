@@ -1,0 +1,19 @@
+﻿nom_ruta,orig_ruta,dest_ruta,long_ruta,hor_habil,hor_sab,hor_fest,dias_oper,tip_bus
+GS45,San Mateo - Cc Unisur,Portal Sur - Jfk Coop. F,4.69462715,5:00 a. m. - 8:00 a. m. _ 4:30 p. m. - 9:30 p. m.,5:00 a. m. - 8:00 a. m., ,L-S,Articulado
+GS45,Portal Sur - Jfk Coop. F,San Mateo - Cc Unisur,4.47492383,5:30 a. m. - 9:00 a. m. _ 4:30 p. m. - 8:00 p. m.,5:00 a. m. - 8:00 a. m., ,L-S,Articulado
+GM47,Museo Nacional,Portal Sur - Jfk Coop. F,13.459472,4:30 a. m. - 11:00 p. m.,5:00 a. m. - 11:00 p. m.,4:30 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+GM47,Portal Sur - Jfk Coop. F,Museo Nacional,13.98261505,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 11:00 p. m.,4:00 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+BG12,Portal Sur - Jfk Coop. F,Portal Norte-Unicervantes,27.24548238,4:00 a. m. - 11:00 p. m.,4:00 a. m. - 11:00 p. m.,4:00 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+BG12,Portal Norte-Unicervantes,Portal Sur - Jfk Coop. F,26.80641039,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+AG52,Portal Sur - Jfk Coop. F,Flores - Areandina,20.55403609,5:00 a. m. - 8:30 a. m., , ,L-V,Articulado
+AG52,Flores - Areandina,Portal Sur - Jfk Coop. F,20.10867131,4:00 p. m. - 8:00 p. m., , ,L-V,Articulado
+BG11,Portal Sur - Jfk Coop. F,Terminal,30.66488368,5:00 a. m. - 9:00 p. m.,6:00 a. m. - 9:30 p. m., ,L-S,Biarticulado
+BG11,Terminal,Portal Sur - Jfk Coop. F,30.28856922,6:00 a. m. - 10:00 p. m.,6:30 a. m. - 10:00 p. m., ,L-S,Biarticulado
+DG22,Portal Sur - Jfk Coop. F,Portal 80,23.67714987,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 11:00 p. m.,5:30 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+DG22,Portal 80,Portal Sur - Jfk Coop. F,23.51925606,5:00 a. m. - 11:00 p. m.,5:00 a. m. - 11:00 p. m.,5:30 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+CG30,Portal Sur - Jfk Coop. F,Portal Suba,27.1687013,5:00 a. m. - 9:00 a. m. _ 4:00 p. m. - 8:00 p. m.,5:00 a. m. - 3:00 p. m., ,L-S,Biarticulado
+CG30,Portal Suba,Portal Sur - Jfk Coop. F,26.95018806,4:30 a. m. - 9:00 a. m. _ 3:00 p. m. - 8:00 p. m.,5:00 a. m. - 3:00 p. m., ,L-S,Biarticulado
+4,Héroes,Portal Sur - Jfk Coop. F,19.27547557,4:00 a. m. - 11:00 p. m.,4:00 a. m. - 11:00 p. m.,4:00 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+4,Portal Sur - Jfk Coop. F,Héroes,18.9828926,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 11:00 p. m.,4:30 a. m. - 10:00 p. m.,L-D/F,Biarticulado
+GK53,Portal ElDorado – C.C. NUESTRO BOGOTA,Portal Sur - Jfk Coop. F,20.64922451,3:30 p. m. - 8:30 p. m.,12:00 p. m. - 5:00 p. m., ,L-S,Biarticulado
+GK53,Portal Sur - Jfk Coop. F,Portal ElDorado – C.C. NUESTRO BOGOTA,20.1048956,5:00 a. m. - 9:00 a. m.,5:00 a. m. - 9:00 a. m., ,L-S,Biarticulado
